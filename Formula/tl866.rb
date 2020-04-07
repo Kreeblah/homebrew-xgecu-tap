@@ -1,7 +1,7 @@
 class Tl866 < Formula
   desc "Tool for firmware modification for TL866A and TL866 CS devices"
   homepage "https://github.com/radiomanV/TL866"
-  head "https://github.com/radiomanV/TL866.git", :revision => "834710336d23899dc3a5ca6710b78ed51eec2d55"
+  head "https://github.com/radiomanV/TL866.git", :revision => "7a3bd38224ca39a4ac8cfac58872e7338ea7550c"
 
   depends_on "pkg-config" => :build
   depends_on "libusb"
